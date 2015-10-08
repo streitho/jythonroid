@@ -1,0 +1,1 @@
+This project is dead, try http://code.google.com/p/android-scripting/ instead, thank you!
